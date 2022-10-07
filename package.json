@@ -1,5 +1,5 @@
 {
-  "name": "fullscreenjs",
+  "name": "fullscreen-js",
   "version": "1.0.0",
   "description": "The Fullscreen API is easier to use",
   "main": "dist/index.js",
